@@ -1,8 +1,8 @@
-🧳 Travel Assistant Chatbot (LangChain + Gemini)
+🧳 **Travel Assistant Chatbot** (LangChain + Gemini)
 A conversational AI-powered travel assistant built using LangChain and Google Gemini (Generative AI).
 The bot answers only travel-related questions and maintains a compressed conversational memory to track user preferences efficiently.
 
-📌 Features
+📌 **Features**
 
 ✈️ Answers travel-related queries only (flights, hotels, destinations, itineraries, budgets, packing tips).
 🚫 Responds with “I can't help with it.” for non-travel questions.
@@ -11,7 +11,7 @@ The bot answers only travel-related questions and maintains a compressed convers
 🔐 Loads API credentials securely using .env.
 
 
-🧠 Architecture Overview
+🧠 **Architecture Overview**
 1. Primary Travel Assistant
 
 Uses Google Gemini (gemini-2.5-flash) via LangChain.
